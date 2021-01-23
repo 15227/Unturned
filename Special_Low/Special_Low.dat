@@ -1,0 +1,17 @@
+GUID 6b011e002f4a41ceaf71d19c00b39acb
+Type Spawn
+ID 555
+
+Tables 6
+Table_0_Spawn_ID 666
+Table_0_Weight 200
+Table_1_Spawn_ID 32300
+Table_1_Weight 175
+Table_2_Spawn_ID 660
+Table_2_Weight 150
+Table_3_Spawn_ID 668
+Table_3_Weight 75
+Table_4_Spawn_ID 658
+Table_4_Weight 50
+Table_5_Spawn_ID 657
+Table_5_Weight 25
